@@ -2,7 +2,7 @@
 //  CloudKitSampleUITests.swift
 //  CloudKitSampleUITests
 //
-//  Created by 鈴木 航 on 2016/03/12.
+//  Created by 鈴木 航 on 2016/04/03.
 //  Copyright © 2016年 WataruSuzuki. All rights reserved.
 //
 
